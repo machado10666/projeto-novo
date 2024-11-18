@@ -1,4 +1,5 @@
 "Meu primeiro arquivo" 
 Este arquivo será alterado para teste.
-Dados serão modificados sucessivamente para apredisado
+Dados serão modificados sucessivamente para apredizado
+este  projeto destina-se a testes 
 
